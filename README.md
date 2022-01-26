@@ -62,3 +62,7 @@ train.py: 训练脚本
 1.指定数据文件夹    
 2.运行sh train.sh 生成mask并开始训练    
 3.指定测试文件夹和模型路径，执行sh test.sh开始测试    
+## 预训练模型    
+https://aistudio.baidu.com/aistudio/projectdetail/3439691    
+运行项目即可下载。    
+ 
