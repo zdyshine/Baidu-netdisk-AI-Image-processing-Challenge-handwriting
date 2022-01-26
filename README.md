@@ -66,5 +66,4 @@ train.py: 训练脚本
 3.指定测试文件夹和模型路径，执行sh test.sh开始测试    
 ## 预训练模型    
 https://aistudio.baidu.com/aistudio/projectdetail/3439691    
-运行项目即可下载。    
- 
+运行项目，下载预训练模型，同时可以进行在线测试。
