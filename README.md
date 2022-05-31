@@ -1,6 +1,6 @@
 # 手写文字擦除第1名方案，水印智能消除赛第1名方案
 手写文字擦除第1名，水印智能消除赛第1名方案        
-比赛连接：[手写文字擦除(赛题二)](https://aistudio.baidu.com/aistudio/competition/detail/129/0/introduction)    
+比赛连接：[手写文字擦除](https://aistudio.baidu.com/aistudio/competition/detail/129/0/introduction)    
 比赛连接：[水印智能消除赛)](https://aistudio.baidu.com/aistudio/competition/detail/209/0/introduction)    
 
 ## 一、赛题背景
