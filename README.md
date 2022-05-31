@@ -1,7 +1,7 @@
 # 手写文字擦除第1名方案，水印智能消除赛第1名方案
 手写文字擦除第1名，水印智能消除赛第1名方案        
 比赛连接：[手写文字擦除](https://aistudio.baidu.com/aistudio/competition/detail/129/0/introduction)    
-比赛连接：[水印智能消除赛)](https://aistudio.baidu.com/aistudio/competition/detail/209/0/introduction)    
+比赛连接：[水印智能消除赛](https://aistudio.baidu.com/aistudio/competition/detail/209/0/introduction)    
 
 ## 一、赛题背景
 对比赛给定的带有手写痕迹的试卷图片进行处理，擦除相关的笔，还原图片原本的样子
