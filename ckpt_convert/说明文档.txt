@@ -1,0 +1,5 @@
+1. repaire模型融合
+选择repair/ckpts中nafa_v1最优的两个模型和nafa_v1_psnr中最优的两个模型，修改ema.py中69-73行代码为对应路径。
+执行python eam.py进行模型融合
+
+2.模型转换
