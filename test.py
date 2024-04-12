@@ -84,11 +84,13 @@ elif args.net == 'mix':
     netG1 = STRAIDR(num_c=96)
     netG2 = STRnet2(3)
     # weights1 = paddle.load('STE_best_37.99.pdparams') # 668
-    weights1 = paddle.load('STE_idr_38.0642.pdparams') # 668
-    # weights1 = paddle.load('STE_best.pdparams') # 668
+    # weights1 = paddle.load('STE_idr_38.0642.pdparams') # 668
+    weights1 = paddle.load('STE_idr_best.pdparams') # 668
 
     # weights2 = paddle.load('STE_best_38.6789.pdparams')
-    weights2 = paddle.load('STE_best_38.6016_new.pdparams')
+    # weights2 = paddle.load('STE_best_38.6016_new.pdparams')
+    weights2 = paddle.load('STE_str_best.pdparams') # 668
+  
     netG1.load_dict(weights1)
     netG2.load_dict(weights2)
     print('load:', 'STE_idr_38.0642.pdparams', 'STE_best_38.6016_new.pdparams')
