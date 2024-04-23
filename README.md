@@ -2,6 +2,10 @@
 手写文字擦除第1名，水印智能消除赛第1名方案        
 比赛连接：[手写文字擦除](https://aistudio.baidu.com/aistudio/competition/detail/129/0/introduction)    
 比赛连接：[水印智能消除赛](https://aistudio.baidu.com/aistudio/competition/detail/209/0/introduction)    
+
+2024-04-23： 关于在比赛数据集之外效果差的问题:
+             比赛数据是合成的，不能模拟到真实场景，所以在真实场景中效果比较差，需要在私有数据集中进行finetune.    
+
 2024-04-12： 模型已上传，在https://github.com/zdyshine/Baidu-netdisk-AI-Image-processing-Challenge-handwriting/releases/tag/checkpoints
 ## 一、赛题背景
 对比赛给定的带有手写痕迹的试卷图片进行处理，擦除相关的笔，还原图片原本的样子
