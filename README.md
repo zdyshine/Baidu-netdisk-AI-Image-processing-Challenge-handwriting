@@ -1,4 +1,7 @@
 # 手写文字擦除第1名方案，水印智能消除赛第1名方案
+
+### 2026-06 近期后台陆续收到不少项目落地相关咨询，但目前暂无真实场景配套数据。如有落地需求的负责人可留言沟通，期待一同研讨落地实施方案。
+
 手写文字擦除第1名，水印智能消除赛第1名方案        
 比赛连接：[手写文字擦除](https://aistudio.baidu.com/aistudio/competition/detail/129/0/introduction)    
 比赛连接：[水印智能消除赛](https://aistudio.baidu.com/aistudio/competition/detail/209/0/introduction)    
